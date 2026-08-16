@@ -55,4 +55,6 @@ img {
     display: block;
     width: 600px;
     border-radius: 20px;
+
+    align-items: center;
 }
